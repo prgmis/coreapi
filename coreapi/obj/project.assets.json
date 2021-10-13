@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ikram\\Desktop\\New folder\\HelloAspNetCore.csproj",
+      "projectUniqueName": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj",
       "projectName": "HelloAspNetCore",
-      "projectPath": "C:\\Users\\ikram\\Desktop\\New folder\\HelloAspNetCore.csproj",
+      "projectPath": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj",
       "packagesPath": "C:\\Users\\ikram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ikram\\Desktop\\New folder\\obj\\",
+      "outputPath": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
