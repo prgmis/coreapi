@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj": {}
+    "E:\\fcwb\\fcwb\\fcwberp\\HelloAspNetCore.csproj": {}
   },
   "projects": {
-    "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj": {
+    "E:\\fcwb\\fcwb\\fcwberp\\HelloAspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj",
+        "projectUniqueName": "E:\\fcwb\\fcwb\\fcwberp\\HelloAspNetCore.csproj",
         "projectName": "HelloAspNetCore",
-        "projectPath": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\HelloAspNetCore.csproj",
+        "projectPath": "E:\\fcwb\\fcwb\\fcwberp\\HelloAspNetCore.csproj",
         "packagesPath": "C:\\Users\\ikram\\.nuget\\packages\\",
-        "outputPath": "E:\\fcwb\\fcwb\\fcwberp\\coreapi\\obj\\",
+        "outputPath": "E:\\fcwb\\fcwb\\fcwberp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
